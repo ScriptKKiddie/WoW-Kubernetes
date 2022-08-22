@@ -10,9 +10,14 @@ S.No. | Content/Topic | Additional Comment
 2 | [K8s Architecture](https://www.technical0812.com/post/categories/devops) |
 
 ## References
+
 - https://kubernetes.io/docs/concepts/containers/images/
 - https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-api/
 - https://anaconda.org/conda-forge/python-kubernetes
+- https://github.com/kubernetes-client/python
+- https://kubernetes.io/docs/reference/using-api/client-libraries/
+- https://kubernetes.io/docs/reference/using-api/
+- https://github.com/kubernetes-client/python#examples
 
 ## Author(s)
 
